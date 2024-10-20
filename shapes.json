@@ -1,6 +1,10 @@
 {
   "options": [
     {
+      "value": "customShape",
+      "label": "Custom Shape"
+    },
+    {
       "value": "opacityWave",
       "label": "Opacity Wave"
     },
