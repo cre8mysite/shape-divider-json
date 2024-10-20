@@ -1,0 +1,320 @@
+{
+  "options": [
+    {
+      "value": "opacityWave",
+      "label": "Opacity Wave"
+    },
+    {
+      "value": "smallwave",
+      "label": "Small Wave"
+    },
+    {
+      "value": "bigWave",
+      "label": "Big Wave"
+    },
+    {
+      "value": "bigWave2",
+      "label": "Big Wave 2"
+    },
+    {
+      "value": "arches",
+      "label": "Arches"
+    },
+    {
+      "value": "opacitySpikes",
+      "label": "Opacity Spikes"
+    },
+    {
+      "value": "fancy1",
+      "label": "Fancy 1"
+    },
+    {
+      "value": "fancyWHex",
+      "label": "Fancy with Hex"
+    },
+    {
+      "value": "floatingDiamonds",
+      "label": "Floating Diamonds"
+    },
+    {
+      "value": "fancy2",
+      "label": "Fancy 2"
+    },
+    {
+      "value": "opacityHex",
+      "label": "Opacity Hex"
+    },
+    {
+      "value": "opacityHex2",
+      "label": "Opacity Hex 2"
+    },
+    {
+      "value": "fancy3",
+      "label": "Fancy 3"
+    },
+    {
+      "value": "fancy4",
+      "label": "Fancy 4"
+    },
+    {
+      "value": "tribal1",
+      "label": "Tribal 1"
+    },
+    {
+      "value": "fancy5",
+      "label": "Fancy 5"
+    },
+    {
+      "value": "blood",
+      "label": "Blood"
+    },
+    {
+      "value": "fancyHills",
+      "label": "Fancy Hills"
+    },
+    {
+      "value": "blood2",
+      "label": "Blood 2"
+    },
+    {
+      "value": "singlePeak",
+      "label": "Single Peak"
+    },
+    {
+      "value": "opacityPeak1",
+      "label": "Opacity Peak 1"
+    },
+    {
+      "value": "opacityPeak2",
+      "label": "Opacity Peak 2"
+    },
+    {
+      "value": "arch",
+      "label": "Arch"
+    },
+    {
+      "value": "book",
+      "label": "Book"
+    },
+    {
+      "value": "opacityPeak3",
+      "label": "Opacity Peak 3"
+    },
+    {
+      "value": "peaks",
+      "label": "Peaks"
+    },
+    {
+      "value": "reversedPeak",
+      "label": "Reversed Peak"
+    },
+    {
+      "value": "ltrSlant",
+      "label": "LTR Slant"
+    },
+    {
+      "value": "opacityLTRSlant",
+      "label": "Opacity LTR Slant"
+    },
+    {
+      "value": "opacityLTRSlant2",
+      "label": "Opacity LTR Slant 2"
+    },
+    {
+      "value": "opacityCurves",
+      "label": "Opacity Curves"
+    },
+    {
+      "value": "sepArches",
+      "label": "Separated Arches"
+    },
+    {
+      "value": "opacityLeftSideArch",
+      "label": "Opacity Left Side Arch"
+    },
+    {
+      "value": "book2",
+      "label": "Book 2"
+    },
+    {
+      "value": "sharkFins",
+      "label": "Shark Fins"
+    },
+    {
+      "value": "drapeArches",
+      "label": "Drape Arches"
+    },
+    {
+      "value": "bottomGradient",
+      "label": "Bottom Gradient"
+    },
+    {
+      "value": "opacityRightSolidLeft",
+      "label": "Opacity Right Solid Left"
+    },
+    {
+      "value": "opacityDownArch",
+      "label": "Opacity Down Arch"
+    },
+    {
+      "value": "fancyCurves",
+      "label": "Fancy Curves"
+    },
+    {
+      "value": "diagSlantOpacity",
+      "label": "Diagonal Slant Opacity"
+    },
+    {
+      "value": "opacityDiamonds",
+      "label": "Opacity Diamonds"
+    },
+    {
+      "value": "opacityDrapeArch",
+      "label": "Opacity Drape Arch"
+    },
+    {
+      "value": "fancyCurves2",
+      "label": "Fancy Curves 2"
+    },
+    {
+      "value": "fancyCurves3",
+      "label": "Fancy Curves 3"
+    },
+    {
+      "value": "opacityCircles",
+      "label": "Opacity Circles"
+    },
+    {
+      "value": "spikes",
+      "label": "Spikes"
+    },
+    {
+      "value": "fancyCurvesCircles",
+      "label": "Fancy Curves Circles"
+    },
+    {
+      "value": "opacityHex3",
+      "label": "Opacity Hex 3"
+    },
+    {
+      "value": "opacityHex4",
+      "label": "Opacity Hex 4"
+    },
+    {
+      "value": "floatingRect",
+      "label": "Floating Rectangle"
+    },
+    {
+      "value": "opacityHex5",
+      "label": "Opacity Hex 5"
+    },
+    {
+      "value": "flames",
+      "label": "Flames"
+    },
+    {
+      "value": "tear",
+      "label": "Tear"
+    },
+    {
+      "value": "paperTear",
+      "label": "Paper Tear"
+    },
+    {
+      "value": "blood3",
+      "label": "Blood 3"
+    },
+    {
+      "value": "fancyOpacityCurves",
+      "label": "Fancy Opacity Curves"
+    },
+    {
+      "value": "opacitySquares",
+      "label": "Opacity Squares"
+    },
+    {
+      "value": "opacityClouds",
+      "label": "Opacity Clouds"
+    },
+    {
+      "value": "roundedCylindersCircles",
+      "label": "Rounded Cylinders Circles"
+    },
+    {
+      "value": "fancyTrianglePeaks",
+      "label": "Fancy Triangle Peaks"
+    },
+    {
+      "value": "opacityPeaksWithTriangles",
+      "label": "Opacity Peaks with Triangles"
+    },
+    {
+      "value": "fancyOpacityDiamond",
+      "label": "Fancy Opacity Diamond"
+    },
+    {
+      "value": "peakOpacityTriangles",
+      "label": "Peak Opacity Triangles"
+    },
+    {
+      "value": "fallingOpacitySpikes",
+      "label": "Falling Opacity Spikes"
+    },
+    {
+      "value": "fancyOpacityDiamond2",
+      "label": "Fancy Opacity Diamond 2"
+    },
+    {
+      "value": "fancyOpacityDiamond3",
+      "label": "Fancy Opacity Diamond 3"
+    },
+    {
+      "value": "book3",
+      "label": "Book 3"
+    },
+    {
+      "value": "diamondPattern",
+      "label": "Diamond Pattern"
+    },
+    {
+      "value": "diamondPattern2",
+      "label": "Diamond Pattern 2"
+    },
+    {
+      "value": "diamondPattern3",
+      "label": "Diamond Pattern 3"
+    },
+    {
+      "value": "opacitySpikes2",
+      "label": "Opacity Spikes 2"
+    },
+    {
+      "value": "narrowSpikes",
+      "label": "Narrow Spikes"
+    },
+    {
+      "value": "wierdTriangles",
+      "label": "Weird Triangles"
+    },
+    {
+      "value": "sharksInWaves",
+      "label": "Sharks in Waves"
+    },
+    {
+      "value": "fancyPentagon",
+      "label": "Fancy Pentagon"
+    },
+    {
+      "value": "peaksWithHex",
+      "label": "Peaks with Hex"
+    },
+    {
+      "value": "hexAndPent",
+      "label": "Hex and Pentagon"
+    },
+    {
+      "value": "peaksAndHex",
+      "label": "Peaks and Hex"
+    }
+  ]
+}
